@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/album-saga/static/css/main.388aed35.chunk.css",
+    "main.js": "/album-saga/static/js/main.bf5afa79.chunk.js",
+    "main.js.map": "/album-saga/static/js/main.bf5afa79.chunk.js.map",
+    "runtime-main.js": "/album-saga/static/js/runtime-main.4969b8bc.js",
+    "runtime-main.js.map": "/album-saga/static/js/runtime-main.4969b8bc.js.map",
+    "static/js/2.9c685fcb.chunk.js": "/album-saga/static/js/2.9c685fcb.chunk.js",
+    "static/js/2.9c685fcb.chunk.js.map": "/album-saga/static/js/2.9c685fcb.chunk.js.map",
+    "index.html": "/album-saga/index.html",
+    "precache-manifest.1a1ac73ec41f8a54e3e233fd11ee8c1a.js": "/album-saga/precache-manifest.1a1ac73ec41f8a54e3e233fd11ee8c1a.js",
+    "service-worker.js": "/album-saga/service-worker.js",
+    "static/css/main.388aed35.chunk.css.map": "/album-saga/static/css/main.388aed35.chunk.css.map",
+    "static/js/2.9c685fcb.chunk.js.LICENSE.txt": "/album-saga/static/js/2.9c685fcb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4969b8bc.js",
+    "static/js/2.9c685fcb.chunk.js",
+    "static/css/main.388aed35.chunk.css",
+    "static/js/main.bf5afa79.chunk.js"
+  ]
+}
