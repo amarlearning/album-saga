@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/album-saga/static/css/main.388aed35.chunk.css",
-    "main.js": "/album-saga/static/js/main.bf5afa79.chunk.js",
-    "main.js.map": "/album-saga/static/js/main.bf5afa79.chunk.js.map",
+    "main.js": "/album-saga/static/js/main.f7154d97.chunk.js",
+    "main.js.map": "/album-saga/static/js/main.f7154d97.chunk.js.map",
     "runtime-main.js": "/album-saga/static/js/runtime-main.4969b8bc.js",
     "runtime-main.js.map": "/album-saga/static/js/runtime-main.4969b8bc.js.map",
     "static/js/2.9c685fcb.chunk.js": "/album-saga/static/js/2.9c685fcb.chunk.js",
     "static/js/2.9c685fcb.chunk.js.map": "/album-saga/static/js/2.9c685fcb.chunk.js.map",
     "index.html": "/album-saga/index.html",
-    "precache-manifest.1a1ac73ec41f8a54e3e233fd11ee8c1a.js": "/album-saga/precache-manifest.1a1ac73ec41f8a54e3e233fd11ee8c1a.js",
+    "precache-manifest.32f2c407a70959a560d55f2ccc63f1bf.js": "/album-saga/precache-manifest.32f2c407a70959a560d55f2ccc63f1bf.js",
     "service-worker.js": "/album-saga/service-worker.js",
     "static/css/main.388aed35.chunk.css.map": "/album-saga/static/css/main.388aed35.chunk.css.map",
     "static/js/2.9c685fcb.chunk.js.LICENSE.txt": "/album-saga/static/js/2.9c685fcb.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4969b8bc.js",
     "static/js/2.9c685fcb.chunk.js",
     "static/css/main.388aed35.chunk.css",
-    "static/js/main.bf5afa79.chunk.js"
+    "static/js/main.f7154d97.chunk.js"
   ]
 }
