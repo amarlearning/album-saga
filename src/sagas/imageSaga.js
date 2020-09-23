@@ -11,7 +11,9 @@ function* handleImagesLoad() {
 		const images = yield call(fetchImages, page);
 		yield put(setImages(images));
 	} catch (error) {
-		yield put(setError(error.toString()));
+		yield put(
+			setError("Something went wrong, Please try after few minutes.")
+		);
 	}
 }
 

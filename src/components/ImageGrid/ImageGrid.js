@@ -33,9 +33,7 @@ class ImageGrid extends Component {
 						);
 					})}
 				</section>
-				{error && (
-					<div className="error mb-5">{JSON.stringify(error)}</div>
-				)}
+				{error && <div className="error mb-5">{error}</div>}
 				<div>
 					<Button onClick={() => !isLoading && loadImages()}>
 						Load Images
