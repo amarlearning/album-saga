@@ -1,0 +1,14 @@
+.stats {
+	background: rgba(50, 50, 50, 0.9);
+	text-align: right;
+	width: auto;
+	display: inline-block;
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	padding: 3px;
+	border-radius: 3px;
+	line-height: 20px;
+	font-size: 15px;
+	color: white;
+}
