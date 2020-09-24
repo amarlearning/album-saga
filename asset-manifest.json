@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/album-saga/static/css/main.41b96ac9.chunk.css",
+    "main.css": "/album-saga/static/css/main.6f9e595b.chunk.css",
     "main.js": "/album-saga/static/js/main.b7bafb83.chunk.js",
     "main.js.map": "/album-saga/static/js/main.b7bafb83.chunk.js.map",
     "runtime-main.js": "/album-saga/static/js/runtime-main.4969b8bc.js",
@@ -8,15 +8,15 @@
     "static/js/2.45749d9f.chunk.js": "/album-saga/static/js/2.45749d9f.chunk.js",
     "static/js/2.45749d9f.chunk.js.map": "/album-saga/static/js/2.45749d9f.chunk.js.map",
     "index.html": "/album-saga/index.html",
-    "precache-manifest.e9d50fd6a8dfb9dbb59a82692dd2199f.js": "/album-saga/precache-manifest.e9d50fd6a8dfb9dbb59a82692dd2199f.js",
+    "precache-manifest.b1e369f051b405a6da81910d90b87412.js": "/album-saga/precache-manifest.b1e369f051b405a6da81910d90b87412.js",
     "service-worker.js": "/album-saga/service-worker.js",
-    "static/css/main.41b96ac9.chunk.css.map": "/album-saga/static/css/main.41b96ac9.chunk.css.map",
+    "static/css/main.6f9e595b.chunk.css.map": "/album-saga/static/css/main.6f9e595b.chunk.css.map",
     "static/js/2.45749d9f.chunk.js.LICENSE.txt": "/album-saga/static/js/2.45749d9f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4969b8bc.js",
     "static/js/2.45749d9f.chunk.js",
-    "static/css/main.41b96ac9.chunk.css",
+    "static/css/main.6f9e595b.chunk.css",
     "static/js/main.b7bafb83.chunk.js"
   ]
 }
