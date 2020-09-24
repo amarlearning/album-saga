@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { connect } from "react-redux";
 import { loadImages } from "../../actions";
 import Button from "../Button";
+import Profile from "../Profile";
 import Stats from "../Stats";
 import "./style.css";
 
@@ -19,12 +20,23 @@ class ImageGrid extends Component {
 					{images.map((image) => {
 						return (
 							<div
-								key={image.id}
+								key={image.id + Math.random()}
 								className={`item item-${Math.ceil(
 									image.height / image.width
 								)}`}
 							>
-								<Stats stats={imageStats[image.id]} />
+								<Profile
+									details={{
+										image_url:
+											image.user.profile_image.small,
+										profile_url: image.user.links.html,
+									}}
+								/>
+
+								<Stats
+									stats={imageStats[image.id]}
+									download={image.links.download}
+								/>
 								<img
 									src={image.urls.small}
 									alt={image.alt_description}
