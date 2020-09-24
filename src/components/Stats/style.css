@@ -7,6 +7,10 @@
 	top: 10px;
 }
 
+.wrapper > a {
+	text-decoration: none;
+}
+
 .stats {
 	background: rgba(50, 50, 50, 0.6);
 	border-radius: 3px;
