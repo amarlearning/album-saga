@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/album-saga/static/css/main.f0a27568.chunk.css",
-    "main.js": "/album-saga/static/js/main.85cbde6e.chunk.js",
-    "main.js.map": "/album-saga/static/js/main.85cbde6e.chunk.js.map",
+    "main.css": "/album-saga/static/css/main.41b96ac9.chunk.css",
+    "main.js": "/album-saga/static/js/main.b7bafb83.chunk.js",
+    "main.js.map": "/album-saga/static/js/main.b7bafb83.chunk.js.map",
     "runtime-main.js": "/album-saga/static/js/runtime-main.4969b8bc.js",
     "runtime-main.js.map": "/album-saga/static/js/runtime-main.4969b8bc.js.map",
-    "static/js/2.626fe568.chunk.js": "/album-saga/static/js/2.626fe568.chunk.js",
-    "static/js/2.626fe568.chunk.js.map": "/album-saga/static/js/2.626fe568.chunk.js.map",
+    "static/js/2.45749d9f.chunk.js": "/album-saga/static/js/2.45749d9f.chunk.js",
+    "static/js/2.45749d9f.chunk.js.map": "/album-saga/static/js/2.45749d9f.chunk.js.map",
     "index.html": "/album-saga/index.html",
-    "precache-manifest.a40ae19dd12b3bfb5ddde88e1e7d333f.js": "/album-saga/precache-manifest.a40ae19dd12b3bfb5ddde88e1e7d333f.js",
+    "precache-manifest.e9d50fd6a8dfb9dbb59a82692dd2199f.js": "/album-saga/precache-manifest.e9d50fd6a8dfb9dbb59a82692dd2199f.js",
     "service-worker.js": "/album-saga/service-worker.js",
-    "static/css/main.f0a27568.chunk.css.map": "/album-saga/static/css/main.f0a27568.chunk.css.map",
-    "static/js/2.626fe568.chunk.js.LICENSE.txt": "/album-saga/static/js/2.626fe568.chunk.js.LICENSE.txt"
+    "static/css/main.41b96ac9.chunk.css.map": "/album-saga/static/css/main.41b96ac9.chunk.css.map",
+    "static/js/2.45749d9f.chunk.js.LICENSE.txt": "/album-saga/static/js/2.45749d9f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4969b8bc.js",
-    "static/js/2.626fe568.chunk.js",
-    "static/css/main.f0a27568.chunk.css",
-    "static/js/main.85cbde6e.chunk.js"
+    "static/js/2.45749d9f.chunk.js",
+    "static/css/main.41b96ac9.chunk.css",
+    "static/js/main.b7bafb83.chunk.js"
   ]
 }
