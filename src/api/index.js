@@ -1,5 +1,5 @@
 const URL = "https://api.unsplash.com/photos";
-const KEY = "?client_id=WatIbCnsXxt0mAS6Y3cXgnwIrZ5uCzNfeiyjXvGxqFc";
+const KEY = "?client_id=klneqXHbVcwGI8OGYfxaL3v86FGnBj8UFsXC_rIiCUM";
 
 const fetchImages = async (page) => {
 	const response = await fetch(`${URL}${KEY}&per_page=4&page=${page}`);
