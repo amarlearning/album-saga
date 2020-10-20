@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63b21c038038ab11f3446f0329786665",
+    "revision": "fbc33c0c77811e3f3baff0eded21562c",
     "url": "/album-saga/index.html"
   },
   {
-    "revision": "41c63c690bd566814bd0",
+    "revision": "7f64d47b1236a4d0b789",
     "url": "/album-saga/static/css/main.6f9e595b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/album-saga/static/js/2.45749d9f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "41c63c690bd566814bd0",
-    "url": "/album-saga/static/js/main.b7bafb83.chunk.js"
+    "revision": "7f64d47b1236a4d0b789",
+    "url": "/album-saga/static/js/main.b33b2582.chunk.js"
   },
   {
     "revision": "bc65024ff61b58fbde56",
